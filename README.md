@@ -30,10 +30,12 @@ Actualmente trabajando en lenguajes como:
 
 ## Proyectos que se ayudaron a construir 
 
-* Tienda web
+### Tienda web
+
 [![Repo](https://img.shields.io/badge/GitHub-DDM-181717?logo=github)](https://github.com/mikeelprogramador/DDM)
 
-* Simulador de aerogeneradores en 2d 
+### Simulador de aerogeneradores en 2d 
+
 [![Repo](https://img.shields.io/badge/GitHub-Simulador-181717?logo=github)](https://github.com/mikeelprogramador/Proyecto_aerogenerador)
 
 
